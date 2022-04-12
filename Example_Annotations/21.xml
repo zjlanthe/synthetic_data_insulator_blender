@@ -1,0 +1,25 @@
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>21.jpg</filename>
+    <path>Annotations//21.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ceramicinsulators</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>351</xmin>
+            <ymin>768</ymin>
+            <xmax>387</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+    </annotation>
