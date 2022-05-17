@@ -1,2 +1,2 @@
 # test video
-Use YOLOX to train synthetic data, here are some test results
+Training YOLOX model using train synthetic data, here are some test results
