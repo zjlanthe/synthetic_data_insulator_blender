@@ -6,9 +6,9 @@ For all datasets, please refer to the following link of Baidu network disk：链
 
 <details markdown="1">
 
-```java
+
 ![image](test_visio/text_img/1.jpg)
 ![image](test_visio/text_img/8.jpg)
-```
+
 </details>
 
