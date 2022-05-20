@@ -1,8 +1,8 @@
 # Fitting synthetic dataset (insulator)
 **A synthetic dataset of 10,800 porcelain insulators.  Of course, you can generate any other synthetic dataset from the source code**
 
-`<Example_Annotations>`  : Annotations example of generated synthetic dataset   
-`<Example_JPEGImages>`  : Image example of generated synthetic dataset   
+`<Example_Annotations>`  : Annotations example of  synthetic dataset   
+`<Example_JPEGImages>`  : Image example of  synthetic dataset   
 `<fitting_model>`  : blender model files  
 `<key_code>`  :  auto2.2.py needs to be copied into blender's script to run, label_opencv.py  generate annotation file after image generation  
 `<test_visio>`  : Some test videos and images   
