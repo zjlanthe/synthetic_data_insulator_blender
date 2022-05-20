@@ -4,3 +4,4 @@ A synthetic dataset of 10,800 porcelain insulators.  Of course, you can generate
 For all datasets, please refer to the following link of Baidu network disk：链接: https://pan.baidu.com/s/1ZqgdeP9uLoBM_-UkHTeg6A  密码: 1545
 
 ![image](test_visio/text_img/1.jpg)
+![image](test_visio/text_img/8.jpg)
