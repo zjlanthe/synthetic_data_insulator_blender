@@ -1,7 +1,11 @@
 # Fitting synthetic dataset (insulator)
 **A synthetic dataset of 10,800 porcelain insulators.  Of course, you can generate any other synthetic dataset from the source code**
 
-`<hello world>`  : dfasdds
+`<Example_Annotations>`  : Annotations example of generated synthetic dataset 
+`<Example_JPEGImages>`  : Image example of generated synthetic dataset 
+`<fitting_model>`  : blender model files
+`<key_code>`  : Scripts in blender
+`<test_visio>`  : Some test videos and images 
 
 <details>
 <summary>10800 synthetic datasets download address</summary>
