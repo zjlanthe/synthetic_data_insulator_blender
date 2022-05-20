@@ -15,9 +15,9 @@ For all datasets, please refer to the following link of Baidu network disk：链
 
 <details>
 <summary>Some results of recognizing real images with YOLOX models trained using synthetic datasets</summary>
-For more images please refer to the folder: test_visio/text_img/xxx.jpg
-![image](test_visio/text_img/1.jpg)
-![image](test_visio/text_img/2.jpg)
+For more images please refer to the folder: test_visio/text_img/xxx.jpg  
+![image](test_visio/text_img/1.jpg)  
+![image](test_visio/text_img/2.jpg)  
 ![image](test_visio/text_img/3.jpg)
 ![image](test_visio/text_img/4.jpg)
 ![image](test_visio/text_img/5.jpg)
