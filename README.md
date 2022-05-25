@@ -3,8 +3,6 @@
 
 `<Example_Annotations>`  : Annotations example of  synthetic dataset   
 `<Example_JPEGImages>`  : Image example of  synthetic dataset   
-`<fitting_model>`  : blender model files  
-`<key_code>`  :  auto2.2.py needs to be copied into blender's script to run, label_opencv.py  generate annotation file after image generation  
 `<test_visio>`  : Some test videos and images   
 
 <details>
