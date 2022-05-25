@@ -1,7 +1,11 @@
 # Fitting synthetic dataset (insulator)
 **A synthetic dataset of 10,800 porcelain insulators.  Of course, you can generate any other synthetic dataset from the source code**
 
-Uploading 1 - Compressed with FlexClip.mp4…
+
+
+https://user-images.githubusercontent.com/86902173/170303504-fb330f38-9bba-458f-a6c8-6668f9146770.mp4
+
+
 
 `<Example_Annotations>`  : Annotations example of  synthetic dataset   
 `<Example_JPEGImages>`  : Image example of  synthetic dataset   
