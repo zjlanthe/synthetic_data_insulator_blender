@@ -8,9 +8,9 @@ https://user-images.githubusercontent.com/86902173/170303802-042a10d8-8273-433a-
 
 
 
-`<Example_Annotations>`  : Annotations example of  synthetic dataset   
-`<Example_JPEGImages>`  : Image example of  synthetic dataset   
-`<test_visio>`  : Some test videos and images   
+**<Example_Annotations>**  : Annotations example of  synthetic dataset   
+**<Example_JPEGImages>**  : Image example of  synthetic dataset   
+**<test_visio>**  : Some test videos and images   
 
 <details>
 <summary>10800 synthetic datasets download address</summary>
@@ -46,4 +46,4 @@ For more images please refer to the folder: test_visio/text_img/xxx.jpg
 ![image](test_visio/text_img/22.jpg)
 </details>
 
-`Awaiting update`: depth maps and instance segmentation labels
+**Awaiting update**: depth maps and instance segmentation labels
