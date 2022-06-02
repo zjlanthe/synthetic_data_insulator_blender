@@ -46,3 +46,4 @@ For more images please refer to the folder: test_visio/text_img/xxx.jpg
 ![image](test_visio/text_img/22.jpg)
 </details>
 
+`Awaiting update`: depth maps and instance segmentation labels
