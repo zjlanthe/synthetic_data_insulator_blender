@@ -48,8 +48,10 @@ For more images please refer to the folder: test_visio/text_img/xxx.jpg
 
 **Awaiting update**: depth maps and instance segmentation labels
 
-<details>
-<summary>For more details, please refer to the following articles</summary>
+
+## Cite 
+For more details, please refer to the following articles
+'''
 @Article{s22124364,
 AUTHOR = {Zhang, Jie and Qin, Xinyan and Lei, Jin and Jia, Bo and Li, Bo and Li, Zhaojun and Li, Huidong and Zeng, Yujie and Song, Jie},
 TITLE = {A Novel Auto-Synthesis Dataset Approach for Fitting Recognition Using Prior Series Data},
@@ -58,7 +60,7 @@ YEAR = {2022},
 URL = {https://www.mdpi.com/1424-8220/22/12/4364},
 DOI = {10.3390/s22124364}
 }
-</details>
+'''
 
 
 
