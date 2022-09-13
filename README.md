@@ -1,4 +1,4 @@
-# Fitting synthetic dataset 
+# Fitting synthetic dataset (Not limited to insulators)
 **Of course, you can generate any other synthetic dataset from the source code**
 
 
