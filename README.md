@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/86902173/170303802-042a10d8-8273-433a-
 **<Example_Annotations>**  : Annotations example of  synthetic dataset   
 **<Example_JPEGImages>**  : Image example of  synthetic dataset   
 **<test_visio>**  : Some test videos and images   
+**<fitting model>**  : The blender file that can be run directly, including a variety of fixtures, i.e. ceramic tension insulator (XP-70), composite tension insulator (FXBW-10), ceramic post insulator (PS-15), composite post insulator (FPQ-10), suspension clamp (XG-4028), strain clamp (NLD-4), and damper (FR-10) 
 
 <details>
 <summary>10800 synthetic datasets download address</summary>
@@ -49,19 +50,6 @@ For more images please refer to the folder: test_visio/text_img/xxx.jpg
 **Awaiting update**: depth maps and instance segmentation labels
 
 
-## Cite 
-For more details, please refer to the following articles
-
-```
-@Article{s22124364,
-AUTHOR = {Zhang, Jie and Qin, Xinyan and Lei, Jin and Jia, Bo and Li, Bo and Li, Zhaojun and Li, Huidong and Zeng, Yujie and Song, Jie},
-TITLE = {A Novel Auto-Synthesis Dataset Approach for Fitting Recognition Using Prior Series Data},
-JOURNAL = {Sensors},
-YEAR = {2022},
-URL = {https://www.mdpi.com/1424-8220/22/12/4364},
-DOI = {10.3390/s22124364}
-}
-```
 
 
 
