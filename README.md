@@ -1,5 +1,5 @@
-# Fitting synthetic dataset (insulator)
-**A synthetic dataset of 10,800 porcelain insulators.  Of course, you can generate any other synthetic dataset from the source code**
+# Fitting synthetic dataset 
+**Of course, you can generate any other synthetic dataset from the source code**
 
 
 
