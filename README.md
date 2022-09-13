@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/86902173/170303802-042a10d8-8273-433a-
 **<Example_Annotations>**  : Annotations example of  synthetic dataset   
 **<Example_JPEGImages>**  : Image example of  synthetic dataset   
 **<test_visio>**  : Some test videos and images   
-**<fitting model>**  : The blender file that can be run directly, including a variety of fixtures, 
+**<fitting_model>**  : The blender file that can be run directly, including a variety of fixtures, 
 i.e. ceramic tension insulator (XP-70), composite tension insulator (FXBW-10), ceramic post insulator (PS-15), 
 composite post insulator (FPQ-10), suspension clamp (XG-4028), strain clamp (NLD-4), and damper (FR-10) 
 
